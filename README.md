@@ -47,10 +47,17 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern and uses Sw
 The app uses [describe your data source here, e.g. "a local JSON file" or "a custom API"]
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/2ab80446-b906-41a5-bff3-de3f82f0a7dc)
-![image](https://github.com/user-attachments/assets/b302ac97-578e-4200-8bf9-f916098f7d9b)
-![image](https://github.com/user-attachments/assets/876e8246-5d8f-467f-98dc-d16f4dfb48a6)
-![image](https://github.com/user-attachments/assets/78fb1fba-2a9a-418d-8c67-ee5e264e22fb)
+
+<img src="https://github.com/user-attachments/assets/2ab80446-b906-41a5-bff3-de3f82f0a7dc" alt="Ios App" width="200" height="300">
+
+
+<img src="https://github.com/user-attachments/assets/b302ac97-578e-4200-8bf9-f916098f7d9b" alt="Ios App" width="200" height="300">
+
+
+<img src="https://github.com/user-attachments/assets/876e8246-5d8f-467f-98dc-d16f4dfb48a6" alt="Ios App" width="200" height="300">
+
+
+<img src="https://github.com/user-attachments/assets/78fb1fba-2a9a-418d-8c67-ee5e264e22fb" alt="Ios App" width="200" height="300">
 
 
 
