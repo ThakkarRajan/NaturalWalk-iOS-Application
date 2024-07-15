@@ -42,9 +42,7 @@ open NaturalWalk.xcodeproj
 
 The app follows the MVVM (Model-View-ViewModel) architecture pattern and uses SwiftUI for the user interface.
 
-## Data Source
 
-The app uses [describe your data source here, e.g. "a local JSON file" or "a custom API"]
 
 ## Screenshots
 
